@@ -1,16 +1,54 @@
-# one
+# Flutter Login UI – Routine App
 
-A new Flutter project.
+A beautiful and modern Flutter login screen designed as part of a routine management app. Built with clean UI principles, custom fonts, and responsive layouts.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Custom-styled login screen
+- Clean, minimal layout
+- Reusable UI components
+- Google Fonts and custom icons
+- Flutter best practices applied
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart
+- Visual Studio Code / Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hassan54119/flutter-login-ui.git
+
+   ```
+
+2. Navigate into the project:
+   cd flutter-login-ui
+
+3. Get dependencies:
+   flutter pub get
+
+4. Run the app:
+   flutter run
+
+5. 📁 Folder Structure
+   lib/
+   ├── main.dart
+   ├── screens/
+   │ └── one.dart
+   assets/
+   ├── fonts/
+   ├── images/
+
+📄 License
+This project is open source and available under the MIT License.
+
+👤 Author
+Hassan Ali
+contact :hassan54119ali@gmail.com
+Flutter Developer | UI Enthusiast
